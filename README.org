@@ -1,0 +1,8 @@
+* Make
+  [[https://psrc.github.io/novice-make/][Automation and Make]] step by step with an example
+
+* emacs
+** eshell
+   [[https://ambrevar.bitbucket.io/emacs-eshell][Eshell as a main shell]]
+** test
+   [[http://edkolev.github.io/posts/2017-09-10-travis-for-emacs-packages.html][Travis CI integration for emacs packages]]
