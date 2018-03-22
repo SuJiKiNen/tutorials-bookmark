@@ -9,3 +9,6 @@
 
 * AutoHotkey
   [[http://ahkscript.github.io/ahkbook/][ahkbook - the book for AutoHotkey]] good tutorial for beginners
+
+* python
+  [[https://code-maven.com/slides/python-programming/][python-programming]] neaty tutorial
