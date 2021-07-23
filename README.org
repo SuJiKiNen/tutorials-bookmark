@@ -14,3 +14,6 @@
   [[https://code-maven.com/slides/python-programming/][python-programming]] neaty tutorial
 * WEB
   [[http://restcookbook.com/Basics/loggingin/][RESTful API cookbook]]
+
+* Others
+  [[http://www.catb.org/~esr/faqs/smart-questions.html][How To Ask Questions The Smart Way]]
